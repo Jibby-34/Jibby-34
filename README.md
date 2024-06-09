@@ -1,7 +1,8 @@
 <h1> Gibson DeGroot's Github </h1>
 <br>
-<h3>- FRC team 85 programmer</h3>
-<h3>- Fluent in Java, C#, HTML, and basically every block language</h3>
+<hr>
+<h4>FRC Team 85 Programmer/Technician</h4>
 <br>
+<hr>
 <br>
-<h6>I also love 3357 COMETS!!!</h6>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jibby34&show_icons=true&title_color=ffffff&text_color=ffffff&bg_color=303742&hide_border=true&locale=en" alt="jibby34" /></p>
